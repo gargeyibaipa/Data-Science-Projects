@@ -1,1 +1,4 @@
+## **Abstract**
+
+The experience of the end user, which in the context of this project is a patient can derive some critical information that might be useful for improving the condition of a patient, can help other patients with similar condition and also help improve the sentiment of certain drug brands. Some studies were performed on how social media influenced the patient’s usage of drugs. Drug review data which captured the reviews of the patients from drugs.com was analyzed in this work. Insights into the usefulness of the drugs and the health conditions described were unearthed. Machine learning algorithms were used to predict the sentiment of the review. The approach to perform sentiment analysis and the techniques that were found to be helpful for cleaning the reviews were explored. A comparison of multiple machine learning models was performed to determine which algorithm works best for the chosen dataset.
 
