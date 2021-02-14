@@ -1,12 +1,12 @@
 # Data-Science-Projects
 ### Brief Description of Projects
 
-## Drug Review Sentiment Analysis
+#### Drug Review Sentiment Analysis
 
-## Impact of Travel on COVID Deaths
+#### Impact of Travel on COVID Deaths
 
-## US Accidents Data Analysis
+#### US Accidents Data Analysis
 
-## Flight Delay Prediction
+#### Flight Delay Prediction
 
-## BlockChain Smart Contract
+#### BlockChain Smart Contract
